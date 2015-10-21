@@ -14,9 +14,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 1
-  lightness: 0.1428343
-  saturation: 0.818688
-  rhythmicContrast: 0.5988714
+  lightness: 0.3340425
+  saturation: 0.1723404
+  rhythmicContrast: 0.6765957
   brandColors:
     - '#C7B491'
     - '#1F1E1E'
