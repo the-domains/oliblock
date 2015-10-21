@@ -1,4 +1,4 @@
-layout_spectrum: 0.2638298
+layout_spectrum: 0
 name: OLIBLOCK
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 1
 color:
   brandStrength: 1
   lightness: 0.3340425
   saturation: 0.1723404
   rhythmicContrast: 0.6765957
   brandColors:
-    - '#C7B491'
-    - '#1F1E1E'
-    - '#BCFCFF'
-    - '#425477'
-    - '#6EACE0'
-typography_spectrum: 1
+    - '#CEBB9A'
+    - '#540054'
+    - '#5C6D7F'
+    - '#C83A5B'
+    - '#7F7803'
