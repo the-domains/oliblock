@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[OLIBLOCK]]></title>
         <description><![CDATA[OLIBLOCK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oliblock/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 17:18:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oliblock/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined7bc8fefd-a70e-4421-8a84-8744bb7a500b/index.html</link>
+            <description><![CDATA[<p>MAS 2015</p>]]></description>
+            <link>https://thegrid.ai/oliblock/7bc8fefd-a70e-4421-8a84-8744bb7a500b/index.html</link>
             <guid isPermaLink="false">7bc8fefd-a70e-4421-8a84-8744bb7a500b</guid>
-            <pubDate>Tue, 08 Mar 2016 17:15:41 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 17:18:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
