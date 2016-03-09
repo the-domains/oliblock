@@ -1,5 +1,7 @@
-layout_spectrum: 0.07659575
 name: OLIBLOCK
+favicon: null
+layout_spectrum: 0.07659575
+typography_spectrum: 0.6021277
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  lightness: 0.3234043
-  saturation: 0.1468085
-  rhythmicContrast: 0.9680851
   brandColors:
     - '#FF017F'
     - '#DD70A1'
     - '#997A8C'
     - '#FB0FC1'
     - '#FFA6C9'
-typography_spectrum: 0.6021277
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
