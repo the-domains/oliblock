@@ -1,7 +1,7 @@
 name: OLIBLOCK
 favicon: null
 layout_spectrum: 0.07659575
-typography_spectrum: 0.6021277
+typography_spectrum: 0.58876
 collections:
   - index:
       navigable: true
@@ -33,8 +33,8 @@ color:
     - '#997A8C'
     - '#FB0FC1'
     - '#FFA6C9'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
