@@ -4,7 +4,7 @@
         <description><![CDATA[OLIBLOCK]]></description>
         <link>https://thegrid.ai/oliblock/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 22:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 22:36:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oliblock/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/oliblock/d30a9336-0984-4660-8ef7-3d1c89590dfc/index.html</link>
             <guid isPermaLink="false">d30a9336-0984-4660-8ef7-3d1c89590dfc</guid>
             <pubDate>Sat, 21 May 2016 22:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edcce28b-881f-48af-ba1b-f4bb8f528d67.jpg">]]></description>
-            <link>https://thegrid.ai/oliblock/7bc8fefd-a70e-4421-8a84-8744bb7a500b/index.html</link>
-            <guid isPermaLink="false">7bc8fefd-a70e-4421-8a84-8744bb7a500b</guid>
-            <pubDate>Wed, 09 Mar 2016 16:09:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
