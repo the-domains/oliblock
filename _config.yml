@@ -1,40 +1,40 @@
-name: OLIBLOCK
-favicon: null
-layout_spectrum: 0.07659575
-typography_spectrum: 0.58876
+purpose: []
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 0.4723404
   brandColors:
     - '#007e9e'
     - '#00465f'
     - '#89c8c3'
     - '#f7f4d6'
     - '#51abb0'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.3125
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: OLIBLOCK
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.58876
+layout_spectrum: 0.07659575
